@@ -31,11 +31,11 @@ import net.mamoe.mirai.utils.info
 
 object PluginMain : KotlinPlugin(
     JvmPluginDescription(
-        id = "org.example.mirai-example",
-        name = "插件示例",
-        version = "0.1.0"
+        id = "com.yogurt.server",
+        name = "酸奶的插件",
+        version = "10.1.0"
     ) {
-        author("作者名称或联系方式")
+        author("酸奶")
         info(
             """
             这是一个测试插件, 
